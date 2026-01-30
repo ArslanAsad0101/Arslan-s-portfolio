@@ -78,14 +78,14 @@ function Footer({ theme }) {
                 <img src="https://image2url.com/r2/default/images/1769807998563-edcbacb6-3971-44df-8c3e-f4734fac5c79.png" alt="GitHub" />
               </a>
               <a
-                href="https://wa.me/1234567890"
+                href="https://wa.me/+923164208574"
                 className="social-icon"
                 title="WhatsApp"
               >
                 <img src="https://image2url.com/r2/default/images/1769807891725-3b7d7896-a99d-4f83-8669-7513bb3a20ef.png" alt="WhatsApp" />
               </a>
               <a
-                href="https://instagram.com/yourprofile"
+                href="https://www.instagram.com/ars.lan376/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="social-icon"
@@ -127,3 +127,4 @@ function Footer({ theme }) {
 }
 
 export default Footer;
+
