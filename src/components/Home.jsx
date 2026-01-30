@@ -41,7 +41,7 @@ function Home({ theme }) {
         <div className="home-image">
           <div className="image-placeholder">
             <img
-              src="https://via.placeholder.com/400x400?text=Your+Photo"
+              src="https://image2url.com/r2/default/images/1769812588488-34b1c43e-4cd0-4ea3-b974-17b568c70c27.png"
               alt="Arslan Asad"
               className="profile-img"
             />
@@ -53,3 +53,4 @@ function Home({ theme }) {
 }
 
 export default Home;
+
