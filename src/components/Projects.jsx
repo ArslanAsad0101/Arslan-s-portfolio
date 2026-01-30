@@ -44,22 +44,6 @@ function Projects({ theme }) {
       image: 'https://via.placeholder.com/300x200?text=Blog+Platform',
       githubLink: 'https://github.com/ArslanAsad0101/selenium-testing',
     },
-    {
-      id: 5,
-      title: 'Social Media Dashboard',
-      description: 'Analytics dashboard for social media metrics with beautiful charts and real-time data.',
-      tags: ['React', 'Chart.js', 'REST API'],
-      image: 'https://via.placeholder.com/300x200?text=Social+Dashboard',
-      githubLink: 'https://github.com/yourusername/social-dashboard',
-    },
-    {
-      id: 6,
-      title: 'Fitness Tracker',
-      description: 'Mobile-responsive fitness tracking app with workout logging and progress visualization.',
-      tags: ['React', 'Python', 'SQLite'],
-      image: 'https://via.placeholder.com/300x200?text=Fitness+Tracker',
-      githubLink: 'https://github.com/yourusername/fitness-tracker',
-    },
   ];
 
   return (
@@ -79,3 +63,4 @@ function Projects({ theme }) {
 }
 
 export default Projects;
+
